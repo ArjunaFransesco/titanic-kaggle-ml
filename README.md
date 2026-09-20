@@ -33,4 +33,4 @@ ComponentTarget ColumnsTransformation MethodNumericalAge, Fare, SibSp, ParchSimp
 └── README.md
 🚀 How to RunOpen notebooks/titanic_colab_pipeline.ipynb in Google Colab.Download your API token (kaggle.json) from Kaggle Account Settings.Run all cells in order and upload kaggle.json when requested.Authenticate your Google Drive when prompted to export the serialized model to /MyDrive/ml-portfolio/titanic_survival_pipeline.joblib.📊 Evaluation & MetricsValidation Strategy: 80/20 Stratified Train-Test SplitMetrics Tracked: Accuracy, ROC-AUC, Precision, Recall, F1-ScoreVisualizations: Confusion Matrix Heatmap & Feature Importance Coefficients🗺️ Roadmap & Next Steps[ ] Benchmark Random Forest, XGBoost, and LightGBM models.[ ] Implement $k$-Fold Cross-Validation and hyperparameter tuning with Optuna.[ ] Deploy an interactive prediction interface using Streamlit.[ ] Add GitHub Actions for automated code linting and testing.📜 Dataset ReferenceDataset sourced from the Kaggle Titanic: Machine Learning from Disaster competition.
 
-<!-- Last Maintenance Audit: 2026-09-15 -->
+<!-- Last Maintenance Audit: 2026-09-20 -->
